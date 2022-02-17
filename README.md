@@ -1,20 +1,22 @@
 <h1 align="center"> Hey 👋🏽, I'm Roberto Gomez </h1>
 
 <h3 align="center">
-    Full-Stack Developer at <a href=https://www.bloomtech.com/?utm_source=google&utm_medium=paid&utm_campaign=&utm_term=128288863894&utm_content=bloomtech&utm_type=562071954387&gclid=Cj0KCQiAmKiQBhClARIsAKtSj-miNTq9yY5OdqPD5Z-IlANISMHUF2ITtoDUx0AJcxjHpge29fFDB6saAus5EALw_wcB>Bloomtech</a>.  
+    Full-Stack Developer
 </h3>
 
 <br/>
 <h2 align="center">
     I create user experiences that are:
 </h2>
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/codegif.gif" width="300" />
+
 
 - **Responsive ✅**
 - **Intuitive 🤩**
 - **Dynamic 🧬**
 - **Reusable ♻️**
 - **Secure 🛡️**
+
 
 
 <br/>
@@ -47,7 +49,7 @@
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itsmerobert12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=itsmerobert12&theme=gotham&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 
 
