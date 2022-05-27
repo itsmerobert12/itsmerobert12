@@ -1,7 +1,7 @@
 <h1 align="center"> Hey 👋🏽, I'm Roberto Gomez </h1>
 
 <h3 align="center">
-    Full-Stack Developer
+    Full-Stack Developer : Software Engineer
 </h3>
 
 <br/>
